@@ -15,14 +15,17 @@ Contents
 =============
 
 #### - get_neighbor_index.py
-  - Get neighbors index list of target node using NetworkX
+  - Save neighbors index list txt of target node using NetworkX
 #### - select_feature.py
-  - Select embedding vector aapropriated for index list
-  - index_text mode: read index list txt, index_range mode: set range of index
+  - Select embedding vector apropriated to index list
+  - index_text mode: read index list txt, index_range mode: set range of index list
 #### - tsne_torch.py
-  - 
+  - Read feature vectors & labels and learning t-SNE
+  - Plot axies of t-SNE
+  - Using CUDA tensor
+  - Examples
   
-#### - get_neighbor_index.py
+##### Order of execution: get_neighbor_index.py -> select_feature.py -> tsne_torch.py
 
 Datasets
 =============
