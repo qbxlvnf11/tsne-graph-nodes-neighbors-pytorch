@@ -3,18 +3,27 @@
 Description
 =============
 
-#### - t-sne for graph nodes neighbors
+#### - t-SNE for graph nodes neighbors
   - t-SNE learns a two-dimensional embedding vector that preserves a certain neighboring structure of data represented as a high-dimensional vector, and expresses high-dimensional data as a two-dimensional map.
   - We add two py files (get_neighbor_index.py, select_feature.py) to get neighbors index list of target node and select embedding vector appropriated for index list.
+  - Plot the x-axis and y-axis of results of t-SNE classified labels
+
+#### - Examples
+
 
 Contents
 =============
 
 #### - get_neighbor_index.py
-  - Get neighbors index of target node using NetworkX
+  - Get neighbors index list of target node using NetworkX
 #### - select_feature.py
+  - Select embedding vector aapropriated for index list
+  - index_text mode: read index list txt, index_range mode: set range of index
 #### - tsne_torch.py
+  - 
   
+#### - get_neighbor_index.py
+
 Datasets
 =============
 
