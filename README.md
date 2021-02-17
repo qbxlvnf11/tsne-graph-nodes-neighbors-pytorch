@@ -9,7 +9,7 @@ Description
   - Plot the x-axis and y-axis of t-SNE classified labels
 
 #### - Examples
-  - <img src=https://user-images.githubusercontent.com/52263269/108198495-04b90c00-715f-11eb-9495-c38ad4cd531b.png>
+  - <img src=https://user-images.githubusercontent.com/52263269/108198495-04b90c00-715f-11eb-9495-c38ad4cd531b.png width=300>
 
 Contents
 =============
