@@ -5,28 +5,22 @@ Description
 
 #### - t-sne for graph nodes neighbors
   - t-SNE learns a two-dimensional embedding vector that preserves a certain neighboring structure of data represented as a high-dimensional vector, and expresses high-dimensional data as a two-dimensional map.
-  - 
+  - We add two py files (get_neighbor_index.py, select_feature.py) to get neighbors index list of target node and select embedding vector appropriated for index list.
 
 Contents
 =============
 
 #### - get_neighbor_index.py
-  - Get neighbors of target nodes using NetworkX
+  - Get neighbors index of target node using NetworkX
 #### - select_feature.py
 #### - tsne_torch.py
   
 Datasets
 =============
 
-#### - UCSD Anomaly Detection Dataset
+#### - Amazon-Bok Dataset
 
-http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm
-
-#### - Graph dataset
-
-https://ls11-www.cs.tu-dortmund.de/staff/morris/graphkerneldatasets
-
-https://github.com/bknyaz/graph_nn
+https://jmcauley.ucsd.edu/data/amazon/
 
 References
 =============
@@ -35,7 +29,7 @@ References
 
 https://networkx.github.io/documentation/stable/index.html
 
-#### - t-sne pytorch
+#### - t-SNE Pytorch
 
 https://github.com/mxl1990/tsne-pytorch
 
