@@ -21,6 +21,7 @@ Contents
   - Plot axies of t-SNE
   - Using CUDA tensor
   - Examples
+ 
 <img src=https://user-images.githubusercontent.com/52263269/108198495-04b90c00-715f-11eb-9495-c38ad4cd531b.png width=350><img src=https://user-images.githubusercontent.com/52263269/108201966-cffb8380-7163-11eb-900f-5d04d7421212.png width=350>
 
 ##### Order of execution: get_neighbor_index.py -> select_feature.py -> tsne_torch.py
