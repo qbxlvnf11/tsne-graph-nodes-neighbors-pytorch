@@ -6,7 +6,7 @@ Description
 #### - t-SNE for graph nodes neighbors
   - t-SNE learns a two-dimensional embedding vector that preserves a certain neighboring structure of data represented as a high-dimensional vector, and expresses high-dimensional data as a two-dimensional map.
   - We add two py files (get_neighbor_index.py, select_feature.py) to get neighbors index list of target node and select embedding vector appropriated for index list.
-  - Plot the x-axis and y-axis of results of t-SNE classified labels
+  - Plot the x-axis and y-axis of t-SNE classified labels
 
 #### - Examples
 
