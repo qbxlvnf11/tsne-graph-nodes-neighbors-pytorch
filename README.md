@@ -62,7 +62,7 @@ https://github.com/mxl1990/tsne-pytorch
 
 #### - sklearn t-SNE
 
-https://github.com/qbxlvnf11/machine-learning-basic
+https://github.com/qbxlvnf11/machine-learning-basic/blob/master/Character-level_Word-level_t-SNE.ipynb
 
 Author
 =============
