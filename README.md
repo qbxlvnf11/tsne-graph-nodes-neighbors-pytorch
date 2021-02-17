@@ -25,7 +25,7 @@ Contents
   - Plot axies of t-SNE
   - Using CUDA tensor
 
-##### - Order of execution: get_neighbor_index.py -> select_feature.py -> tsne_torch.py
+#### - Order of execution: get_neighbor_index.py -> select_feature.py -> tsne_torch.py
 
 How to use
 =============
