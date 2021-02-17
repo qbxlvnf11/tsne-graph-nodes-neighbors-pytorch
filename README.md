@@ -24,7 +24,22 @@ Contents
   - Plot axies of t-SNE
   - Using CUDA tensor
 
-##### Order of execution: get_neighbor_index.py -> select_feature.py -> tsne_torch.py
+##### - Order of execution: get_neighbor_index.py -> select_feature.py -> tsne_torch.py
+
+How to use
+=============
+
+```
+python get_neighbor_index.py --target_node u27192 --hop 1
+```
+
+```
+python select_feature.py --index_text 1
+```
+
+```
+python tsne_torch.py --max_iter 1000
+```
 
 Datasets
 =============
