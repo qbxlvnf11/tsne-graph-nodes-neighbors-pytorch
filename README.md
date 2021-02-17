@@ -29,7 +29,7 @@ Contents
 Datasets
 =============
 
-#### - Amazon-Bok Dataset
+#### - Amazon-Book Dataset
 
 https://jmcauley.ucsd.edu/data/amazon/
 
